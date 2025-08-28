@@ -355,3 +355,19 @@ nav a.active {
   margin-top: 10px;
   grid-column: 2;
 }
+
+.knap {
+  margin: 10px 10px 0 0;
+}
+
+.input-soeg {
+  margin-top: 20px;
+}
+
+.soegefelt {
+  margin-bottom: 20px;
+}
+
+footer {
+  margin-top: 20px;
+}
